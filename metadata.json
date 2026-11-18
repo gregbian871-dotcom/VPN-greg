@@ -1,0 +1,6 @@
+{
+  "name": "BianGreg Tunneling",
+  "description": "Aplikasi VPN Android untuk SSH Payload, SSL/SNI, dan V2Ray (VMess, VLESS, Trojan, Shadowsocks) dengan fitur import dan export config.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
